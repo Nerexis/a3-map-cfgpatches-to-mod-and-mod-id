@@ -112,6 +112,11 @@ Here is an example of the generated SQF array:
 ]
 ```
 
+## Donations
+https://www.buymeacoffee.com/nerexis
+Thanks!
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
